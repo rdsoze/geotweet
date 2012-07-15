@@ -12,7 +12,7 @@ gem 'http_router'
 gem 'async-rack'
 gem 'pry'
 gem 'tweetstream'
-
+gem 'faraday'
 # For async Active Record models
 # gem 'mysql2', '~> 0.2.11'
 # gem 'activerecord', :require => 'active_record'
